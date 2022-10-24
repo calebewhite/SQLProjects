@@ -12,3 +12,10 @@
 ### User Churn Analysis: (https://github.com/calebewhite/SQLProjects/blob/main/SQLUserChurnAnalysis.sql)
 
 - Determined subscriber churn rate for each month of the first quarter for two segments of customers
+
+### Touch Attribution Analysis: 
+
+- Determined the number of first touches attributable to various marketing campaigns
+- Determined the number of last touches attributable to various marketing campaigns
+- Determined the number of visitors reaching each page of website(landing page - purchase page)
+- Determined the number of last touches on the purchase page attributable to each marketing campaign
