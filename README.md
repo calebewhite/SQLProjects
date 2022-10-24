@@ -2,7 +2,7 @@
 
 ## Here are a few examples of analyses I have conducted using SQL.
 
-### Usage Funnel Analysis:
+### Usage Funnel Analysis (https://github.com/calebewhite/SQLProjects/blob/main/SQLUsageFunnelAnalysis.sql):
 
 - Determined conversion at each step of a sales funnel
 - Determined difference in conversion rates between two test variations of step #2
