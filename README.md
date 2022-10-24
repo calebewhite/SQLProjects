@@ -9,6 +9,6 @@
 - Determined most popular purchases
 - Determined most common results of an online quiz provided as introductory offer
 
-### User Churn Analysis: 
+### User Churn Analysis: (https://github.com/calebewhite/SQLProjects/blob/main/SQLUserChurnAnalysis.sql)
 
 - Determined subscriber churn rate for each month of the first quarter for two segments of customers
