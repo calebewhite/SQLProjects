@@ -13,7 +13,7 @@
 
 - Determined subscriber churn rate for each month of the first quarter for two segments of customers
 
-### Touch Attribution Analysis: 
+### Touch Attribution Analysis: (https://github.com/calebewhite/SQLProjects/blob/main/SQLTouchAttributionAnalysis.sql)
 
 - Determined the number of first touches attributable to various marketing campaigns
 - Determined the number of last touches attributable to various marketing campaigns
