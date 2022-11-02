@@ -1,8 +1,8 @@
-# Codecademy SQL Projects
+# SQL Projects
 
 ## Here are a few examples of analyses I have conducted using SQL.
 
-### Usage Funnel Analysis:        
+### Codecademy Usage Funnel Analysis:        
 (https://github.com/calebewhite/SQLProjects/blob/main/SQLUsageFunnelAnalysis.sql)
 
 - Determined conversion at each step of a sales funnel
@@ -10,12 +10,12 @@
 - Determined most popular purchases
 - Determined most common results of an online quiz provided as introductory offer
 
-### User Churn Analysis:       
+### Codecademy User Churn Analysis:       
 (https://github.com/calebewhite/SQLProjects/blob/main/SQLUserChurnAnalysis.sql)
 
 - Determined subscriber churn rate for each month of the first quarter for two segments of customers
 
-### Touch Attribution Analysis: 
+### Codecademy Touch Attribution Analysis: 
 (https://github.com/calebewhite/SQLProjects/blob/main/SQLTouchAttributionAnalysis.sql)
 
 - Determined the number of first touches attributable to various marketing campaigns
