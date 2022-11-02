@@ -6,7 +6,7 @@
 (https://github.com/calebewhite/SQLProjects/blob/main/SQLUsageFunnelAnalysis.sql)
 
 - Determined conversion at each step of a sales funnel
-- Determined difference in conversion rates between two variations of step #2
+- Determined difference in conversion rates between two variations 
 - Determined most popular purchases
 - Determined most common results of an online quiz provided as introductory offer
 
